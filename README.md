@@ -1,2 +1,2 @@
-# pic_bed
-图床
+# cdn
+jsdelivr
